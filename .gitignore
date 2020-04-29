@@ -2,7 +2,7 @@
 *.pyc
 *.iml
 *.rst
-*.py
+JobScrapper/venv/*
 JobScrapper/.idea/inspectionProfiles/profiles_settings.xml
 JobScrapper/.idea/misc.xml
 JobScrapper/.idea/modules.xml
